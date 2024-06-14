@@ -1,0 +1,16 @@
+C:\Users\ellad228\source\repos\Snake2\Snake2\bin\Debug\net6.0-windows\Snake2.exe
+C:\Users\ellad228\source\repos\Snake2\Snake2\bin\Debug\net6.0-windows\Snake2.deps.json
+C:\Users\ellad228\source\repos\Snake2\Snake2\bin\Debug\net6.0-windows\Snake2.runtimeconfig.json
+C:\Users\ellad228\source\repos\Snake2\Snake2\bin\Debug\net6.0-windows\Snake2.dll
+C:\Users\ellad228\source\repos\Snake2\Snake2\bin\Debug\net6.0-windows\Snake2.pdb
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.Form1.resources
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.csproj.GenerateResource.cache
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.AssemblyInfoInputs.cache
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.AssemblyInfo.cs
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.csproj.CoreCompileInputs.cache
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.dll
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\refint\Snake2.dll
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.pdb
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\Snake2.genruntimeconfig.cache
+C:\Users\ellad228\source\repos\Snake2\Snake2\obj\Debug\net6.0-windows\ref\Snake2.dll
